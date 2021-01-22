@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Massamba-Bienvenu/Tracker-de-taches.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Massamba-Bienvenu/Tracker-de-taches.git/static/js/main.24de153f.chunk.js",
+    "main.js.map": "/Massamba-Bienvenu/Tracker-de-taches.git/static/js/main.24de153f.chunk.js.map",
+    "runtime-main.js": "/Massamba-Bienvenu/Tracker-de-taches.git/static/js/runtime-main.3eec5345.js",
+    "runtime-main.js.map": "/Massamba-Bienvenu/Tracker-de-taches.git/static/js/runtime-main.3eec5345.js.map",
+    "static/js/2.9449cc76.chunk.js": "/Massamba-Bienvenu/Tracker-de-taches.git/static/js/2.9449cc76.chunk.js",
+    "static/js/2.9449cc76.chunk.js.map": "/Massamba-Bienvenu/Tracker-de-taches.git/static/js/2.9449cc76.chunk.js.map",
+    "index.html": "/Massamba-Bienvenu/Tracker-de-taches.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Massamba-Bienvenu/Tracker-de-taches.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9449cc76.chunk.js.LICENSE.txt": "/Massamba-Bienvenu/Tracker-de-taches.git/static/js/2.9449cc76.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Massamba-Bienvenu/Tracker-de-taches.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3eec5345.js",
+    "static/js/2.9449cc76.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.24de153f.chunk.js"
+  ]
+}
